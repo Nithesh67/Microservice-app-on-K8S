@@ -1,3 +1,3 @@
-##Deployed a microservices app on Kubernetes.
+Deployed a microservices app on Kubernetes.
 
 
